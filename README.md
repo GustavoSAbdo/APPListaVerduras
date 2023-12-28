@@ -30,7 +30,7 @@ npm --version
 
 Com o `node` instalado podemos criar um projeto `expo` com o seguinte comando:
 ```
-npx create-expo-app react-native-comecando-do-zero
+npx create-expo-app reactnative
 ```
 
 ### ▶️ Rodando o Projeto
